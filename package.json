@@ -1,0 +1,3 @@
+npm install
+npm install framer-motion lucide-react
+npm install tailwindcss @tailwindcss/vite
